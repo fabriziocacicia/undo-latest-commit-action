@@ -11,7 +11,7 @@ runs-on: ubuntu-latest
       - uses: actions/checkout@v3
         with:
            fetch-depth: 0
-      - name: Undo Last Commit
+      - name: Undo Latest Commit
         uses: fabriziocacicia/undo-latest-commit-action@v0.1.0
 
 ```
