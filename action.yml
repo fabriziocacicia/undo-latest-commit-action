@@ -1,5 +1,5 @@
 name: "Undo Last Commit"
-description: "Undo Last Commit"
+description: "A Github Action to undo the latest commit"
 author: "mail@fabriziocacicia.com"
 
 runs:
