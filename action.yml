@@ -1,4 +1,4 @@
-name: "Undo Last Commit"
+name: "Undo Latest Commit"
 description: "A Github Action to undo the latest commit"
 author: "mail@fabriziocacicia.com"
 
