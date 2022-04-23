@@ -1,5 +1,5 @@
 # Undo Latest Commit
-A Github Action tu undo the latest commit.
+A Github Action that undo the latest commit.
 
 ## Usage
 In order to use this action you first need to checkout the repository.
